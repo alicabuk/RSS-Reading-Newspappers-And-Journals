@@ -1,0 +1,16 @@
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\bin\Debug\SesliGazete.exe.config
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\bin\Debug\SesliGazete.exe
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\bin\Debug\SesliGazete.pdb
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.csprojAssemblyReference.cache
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\Interop.SpeechLib.dll
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.csproj.ResolveComReference.cache
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.Dergiler.resources
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.Gazeteler.resources
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.Main.resources
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.Properties.Resources.resources
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.csproj.GenerateResource.cache
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.csproj.CoreCompileInputs.cache
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.exe
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.pdb
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.DergiHaber.resources
+C:\Users\ALI G\source\repos\SesliGazete\SesliGazete\obj\Debug\SesliGazete.GazeteHaber.resources
